@@ -1,6 +1,6 @@
 ## Banner G1
 
-Banner bem parecido com o banner do globoesporte.globo.com
+Banner estilo o do globoesporte.globo.com
 
 
 ## Bibliotecas necessárias 
@@ -11,7 +11,7 @@ Banner bem parecido com o banner do globoesporte.globo.com
 
 ## HTML 
 - index.html
-
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -124,11 +124,11 @@ Banner bem parecido com o banner do globoesporte.globo.com
       <script src="dist/js/scripts.min.js" type="text/javascript"></script>
     </body>
 </html>
-
+```
 
 ## Código CSS
 - styles.css
-
+```css
 * {margin: 0; padding: 0; vertical-align: baseline; font-family: 'Open Sans', sans-serif;}
 
 body {background-color: #333;}
@@ -155,11 +155,11 @@ body {background-color: #333;}
   .banner .owl-controls .owl-buttons .owl-prev {margin-left: 20px;}
   .banner .owl-controls .owl-buttons .owl-next {margin-right: 20px;}
 }
-
+```
 
 ## Script JS
 -- scripts.js
-
+```javascript
 $(function(){
    $(".banner").owlCarousel({
         autoPlay: 5000,
@@ -169,3 +169,4 @@ $(function(){
         singleItem:true
       });
 });
+```
