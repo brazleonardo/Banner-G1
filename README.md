@@ -2,6 +2,8 @@
 
 Banner estilo o do globoesporte.globo.com
 
+link para [a link](http://brazleonardo.github.io/Banner-G1/)
+
 
 ## Bibliotecas necessárias 
 - jQuery
