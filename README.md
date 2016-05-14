@@ -6,6 +6,7 @@ Banner estilo o do globoesporte.globo.com
 ## Bibliotecas necessárias 
 - jQuery
 - Owl Carousel
+- Bootstrap
 
 ## Blocos de código para o funcionamento.
 
