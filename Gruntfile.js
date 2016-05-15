@@ -41,13 +41,11 @@ module.exports = function (grunt) {
         }
     });
     
-    // Next one would load plugins
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
  
-    // Here is where we would define our task
     grunt.registerTask('default', ['cssmin:target', 'sass', 'jshint:jsFiles', 'concat:js', 'uglify:bundle',]);
 };
