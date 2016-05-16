@@ -1,4 +1,6 @@
 module.exports = function (grunt) {
+    'use strict';
+
     grunt.initConfig({
     
         cssmin: {
@@ -19,7 +21,7 @@ module.exports = function (grunt) {
         },
  
         jshint: {
-            jsFiles: ['src/js/**/*.js']                             
+            jsFiles: ['Gruntfile.js', 'src/js/*.js', 'src/js/**/*.js']                             
         },
  
         concat: {

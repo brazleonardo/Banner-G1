@@ -19,7 +19,7 @@ Banner estilo o do globoesporte.globo.com
 <html>
     <head>
       <meta charset="utf-8">
-        <title>Grunt config</title>         
+        <title>Banner estilo globoesporte</title>         
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
         <link href="dist/css/vendor.min.css" rel="stylesheet">
         <link href="dist/css/styles.min.css" rel="stylesheet">
