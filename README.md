@@ -21,8 +21,11 @@ Banner estilo o do globoesporte.globo.com
       <meta charset="utf-8">
         <title>Banner estilo globoesporte</title>         
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
-        <link href="dist/css/vendor.min.css" rel="stylesheet">
-        <link href="dist/css/styles.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link href="css/owl.carousel.css" rel="stylesheet">
+        <style type="text/css">
+            /*Conteúdo do styles.css aqui*/
+        </style>
     </head>
     <body>
 
@@ -123,8 +126,11 @@ Banner estilo o do globoesporte.globo.com
     </main>
 
 
-      <script src="dist/js/vendor.min.js" type="text/javascript"></script>
-      <script src="dist/js/scripts.min.js" type="text/javascript"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+      <script type="text/javascript">
+        //conteudo do scripts.js aqui.
+      </script>
     </body>
 </html>
 ```
