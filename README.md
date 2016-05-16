@@ -22,7 +22,7 @@ Banner estilo o do globoesporte.globo.com
         <title>Banner estilo globoesporte</title>         
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-        <link href="css/owl.carousel.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" rel="stylesheet">
         <style type="text/css">
             /*Conteúdo do styles.css aqui*/
         </style>
